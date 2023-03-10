@@ -1,0 +1,10 @@
+n=input("enter a file name :")
+if .py in n:
+  print("the file is a python file") 
+if .java in n:
+  print("the file is a java file")
+if .sql in n:
+  print("the file is a SQL file") 
+else: 
+  print("invalid")
+  
